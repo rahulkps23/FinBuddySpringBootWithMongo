@@ -1,4 +1,4 @@
-package com.finbuddy.finance.config;
+package com.finbuddy.finance.Config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
