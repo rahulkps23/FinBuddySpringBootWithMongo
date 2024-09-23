@@ -1,7 +1,5 @@
 package com.finbuddy.finance;
 
-import dev.finbuddy.movies.Movie;
-import dev.finbuddy.movies.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
